@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zequwabiluta.b-cdn.net/sitemap.xml
